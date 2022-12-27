@@ -1,7 +1,7 @@
 import 'package:state_notifier/state_notifier.dart';
 import 'package:mockito/mockito.dart';
 import 'package:state_notifier_test/state_notifier_test.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 // Mock StateNotifier
 class MockCounterStateNotifier extends Mock implements CounterStateNotifier {}

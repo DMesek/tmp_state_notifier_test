@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:diff_match_patch/diff_match_patch.dart';
-import 'package:test/test.dart' as test;
+import 'package:flutter_test/flutter_test.dart' as test;
 import 'package:meta/meta.dart';
 import 'package:state_notifier/state_notifier.dart';
 
